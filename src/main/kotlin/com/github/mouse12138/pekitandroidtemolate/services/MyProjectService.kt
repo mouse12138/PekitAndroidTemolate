@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.mouse12138.pekitandroidtemolate.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mouse12138.pekitandroidtemolate.MyBundle
 
 class MyProjectService(project: Project) {
 
